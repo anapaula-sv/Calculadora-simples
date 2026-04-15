@@ -1,13 +1,26 @@
-# Calculadora simples em Python  
+# 🧮 Calculadora Simples em Python
+Calculadora de operações básicas desenvolvida em Python com o objetivo de praticar lógica de programação, estrutura de funções e entrada de dados pelo usuário.
 
-Desenvolvi esta calculadora com o objetivo de colocar em prática e revisar os conhecimentos que aprendi até o momento. 
-Foi muito gratificante perceber como algo simples já pode ser funcional e ajudar no desenvolvimento da lógica de programação.
+#💡 Sobre o projeto
+Este projeto foi desenvolvido como parte dos meus estudos iniciais em Python. Apesar de simples, ele consolida conceitos fundamentais como definição de funções, controle de fluxo e interação com o usuário via terminal.
 
-# Tecnologias 
-- Python
+# ⚙️ Funcionalidades
+- Soma
+- Subtração
+- Multiplicação
+- Divisão (com tratamento para divisão por zero)
 
-# Funções 
-- soma 
-- subtração
-- multiplicação
-- divisão
+# 🛠️ Tecnologia utilizada
+
+- Python 3
+
+# ▶️ Como executar
+bashgit clone https://github.com/anapaula-sv/Calculadora-simples
+cd Calculadora-simples
+python calculadora.py
+
+# 📚 O que aprendi
+
+- Criação e chamada de funções em Python
+- Uso de condicionais para controle de operações
+- Boas práticas de organização de código
